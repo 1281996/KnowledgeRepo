@@ -10,4 +10,7 @@ void m2() {
 void m3() {
 System.out.println("m3 student");	
 }
+void m4() {
+System.out.println("m3 student");	
+}
 }
