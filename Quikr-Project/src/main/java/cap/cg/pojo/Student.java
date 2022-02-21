@@ -7,4 +7,7 @@ void m1() {
 void m2() {
 	System.out.println("Student");
 }
+void m3() {
+	
+}
 }
